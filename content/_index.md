@@ -198,8 +198,9 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
+    id: publications
     content:
-      title: Recent Publications
+      title: Publications
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
@@ -226,11 +227,19 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  - block: collection
-    content:
-      title: Teaching
-    design:
-      columns: '2'
+  # - block: collection
+  #   id: teaching
+  #   content:
+  #     title: Teaching
+  #     filters:
+  #       folders: -courses
+
+  #     text: 
+  #       Teaching Assistant
+      #   # Fall 2023 CSE30
+      #   # Spring 2023 CSE30
+    # design:
+    #   columns: '2'
   - block: contact
     id: contact
     content:
