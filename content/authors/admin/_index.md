@@ -29,10 +29,10 @@ bio: I am a Master's student in the Department of Computer Science and Engineeri
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  # - Artificial Intelligence
   - Natural Language Processing
-  - XAI
-  - Large Language Models
+  - Explainability, trustworthiness, and hallucination of language models
+  # - Large Language Models
 
 # Education to show in About widget
 education:
