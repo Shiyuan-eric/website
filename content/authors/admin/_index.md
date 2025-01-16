@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.ucsc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Master's student in the Department of Computer Science and Engineering at UC Santa Cruz, under the supervision of [Dr. Leilani Gilpin](https://people.ucsc.edu/~lgilpin/) and [Dr. Ian Lane](https://www.linkedin.com/in/ianrlane/). My research primarily revolves around the explainability of NLP models. 
+bio: I am a Ph.D. student in the Department of Computer Science and Engineering at UC Santa Cruz, under the supervision of [Dr. Leilani Gilpin](https://people.ucsc.edu/~lgilpin/) and [Dr. Ian Lane](https://www.linkedin.com/in/ianrlane/). My research primarily revolves around the explainability of NLP models. 
 
 # Interests to show in About widget
 interests:
