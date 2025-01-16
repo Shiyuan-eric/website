@@ -25,11 +25,11 @@ organizations:
     url: https://www.ucsc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Master's student in the Department of Computer Science and Engineering at UC Santa Cruz, under the supervision of [Dr. Leilani Gilpin](https://people.ucsc.edu/~lgilpin/). His research primarily revolves around the explainability of NLP models. 
+bio: I am a Master's student in the Department of Computer Science and Engineering at UC Santa Cruz, under the supervision of [Dr. Leilani Gilpin](https://people.ucsc.edu/~lgilpin/) and [Dr. Ian Lane](https://www.linkedin.com/in/ianrlane/). My research primarily revolves around the explainability of NLP models. 
 
 # Interests to show in About widget
 interests:
-  # - Artificial Intelligence
+  - Artificial Intelligence
   - Natural Language Processing
   - Explainability, trustworthiness, and hallucination of language models
   # - Large Language Models
@@ -37,6 +37,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. in Computer Science and Engineering
+      institution: UC Santa Cruz
     - course: MSc in Computer Science and Engineering
       institution: UC Santa Cruz
       year: 2024
@@ -118,6 +120,6 @@ social:
 highlight_name: true
 ---
 
-Shiyuan Huang is a Master's student in the Department of Computer Science and Engineering at UC Santa Cruz, under the supervision of [Dr. Leilani Gilpin](https://people.ucsc.edu/~lgilpin/). His research primarily revolves around the explainability of NLP models.
+Shiyuan Huang is a Ph.D. student in the Department of Computer Science and Engineering at UC Santa Cruz, working under the supervision of [Dr. Leilani Gilpin](https://people.ucsc.edu/~lgilpin/) and [Dr. Ian Lane](https://www.linkedin.com/in/ianrlane/). His research focuses on the explainability and trustworthiness of language models, specifically uncovering internal features of large language models to help users better understand and trust them.
 
 <!-- His recent research papers is titled ["Can Large Language Models Explain Themselves? A Study of LLM-Generated Self-Explanations"](https://arxiv.org/pdf/2310.11207.pdf). -->
