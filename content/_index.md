@@ -212,6 +212,32 @@ sections:
   #   design:
   #     columns: '2'
   #     view: citation
+  - block: collection
+    id: presentations
+    content:
+      title: Presentations
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      text: |-
+        **CSE30: Programming Abstractions - Python**, Teaching Assistant
+        - Fall 2024
+        - Spring 2023
+        - Fall 2023
+        - Fall 2022
+
+        **CSE20: Beginning Programming in Python**, Tutor, Reader
+        - 2022
+        - 2021
+    design:
+      columns: '2'
   # - block: collection
   #   id: talks
   #   content:

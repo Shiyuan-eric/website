@@ -106,9 +106,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Shiyuan-eric
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/shiyuan-huang-profile/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -121,5 +121,7 @@ highlight_name: true
 ---
 
 Shiyuan Huang is a Ph.D. student in the Department of Computer Science and Engineering at UC Santa Cruz, working under the supervision of [Dr. Leilani Gilpin](https://people.ucsc.edu/~lgilpin/) and [Dr. Ian Lane](https://www.linkedin.com/in/ianrlane/). His research focuses on the explainability and trustworthiness of language models, specifically uncovering internal features of large language models to help users better understand and trust them.
+
+His research focuses on evaluating large language models from the perspectives of explainability and trustworthiness, as well as improving both aspects. Currently, he is exploring how likelihood and uncertainty quantification in language model generation can be used to assess their knowledge boundaries and abstention capabilities. He also aims to use these measures to explain why language models perform well or poorly on specific tasks.
 
 <!-- His recent research papers is titled ["Can Large Language Models Explain Themselves? A Study of LLM-Generated Self-Explanations"](https://arxiv.org/pdf/2310.11207.pdf). -->
